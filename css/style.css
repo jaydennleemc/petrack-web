@@ -189,7 +189,7 @@ ul, ol {
   	display:block;
   	height:4px;
   	width:40px;
-  	background-color: #6195FF;
+  	background-color: #69ca9f;
     margin-top: 20px;
 }
 
@@ -638,9 +638,13 @@ header {
     margin-bottom: 20px;
 }
 
+.about:hover p {
+    color: #ffffff;
+}
+
 .about:after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #68c89d;
     position: absolute;
     left: 0;
     top: 0;
@@ -1006,7 +1010,7 @@ header {
 
 .team::after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #68c89d;
     position: absolute;
     left: 0;
     right: 0;
@@ -1031,17 +1035,17 @@ header {
   width: 100%;
 }
 
-.team .overlay {
-    background: #1C1D21;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-    opacity: 0;
-    -webkit-transition: 0.2s opacity;
-    transition: 0.2s opacity;
-}
+/*.team .overlay {*/
+    /*background: #ffffff;*/
+    /*position: absolute;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*opacity: 0;*/
+    /*-webkit-transition: 0.2s opacity;*/
+    /*transition: 0.2s opacity;*/
+/*}*/
 
 .team:hover .overlay {
     opacity: 0.8;
