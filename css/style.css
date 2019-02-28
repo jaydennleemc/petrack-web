@@ -804,9 +804,13 @@ header {
     border-radius: 50%;
 }
 
+.service:hover p {
+    color: #ffffff;
+}
+
 .service:after {
     content: "";
-    background-color: #1C1D21;
+    background-color: #68c89d;
     position: absolute;
     left: 0;
     top: 0;
