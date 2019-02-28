@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1480bf1-c9a1-4850-a942-edb625be262d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/perso3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/perso4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/background1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/background2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/background3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-alt.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo-alt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/perso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/perso1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/perso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/perso2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/team3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,39 +14,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="292">
-                  <caret line="134" column="33" lean-forward="true" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-154">
-                  <caret line="640" column="12" selection-start-line="640" selection-start-column="12" selection-end-line="640" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/img/logo.png">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="657" column="30" lean-forward="true" selection-start-line="657" selection-start-column="30" selection-end-line="657" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="813" column="23" lean-forward="true" selection-start-line="813" selection-start-column="23" selection-end-line="813" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -71,8 +41,8 @@
       <find>we are</find>
       <find>John</find>
       <find>team3</find>
-      <find>what</find>
       <find>welcome</find>
+      <find>what</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,12 +131,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551327567925</updated>
-      <workItem from="1551327570818" duration="6753000" />
+      <workItem from="1551327570818" duration="7273000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1551345446136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551345446136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change service class css color">
+      <created>1551345582524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551345582524</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6753000" />
+    <option name="totallyTimeSpent" value="7273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="23" width="1440" height="848" extended-state="0" />
@@ -214,6 +199,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="change service class css color" />
+    <option name="LAST_COMMIT_MESSAGE" value="change service class css color" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -279,17 +269,17 @@
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="134" column="33" lean-forward="true" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+        <state relative-caret-position="467">
+          <caret line="813" column="23" lean-forward="true" selection-start-line="813" selection-start-column="23" selection-end-line="813" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="640" column="12" selection-start-line="640" selection-start-column="12" selection-end-line="640" selection-end-column="12" />
+        <state relative-caret-position="303">
+          <caret line="657" column="30" lean-forward="true" selection-start-line="657" selection-start-column="30" selection-end-line="657" selection-end-column="30" />
         </state>
       </provider>
     </entry>
