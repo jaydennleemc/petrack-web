@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1480bf1-c9a1-4850-a942-edb625be262d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1480bf1-c9a1-4850-a942-edb625be262d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="657" column="30" lean-forward="true" selection-start-line="657" selection-start-column="30" selection-end-line="657" selection-end-column="30" />
+            <state relative-caret-position="408">
+              <caret line="664" column="18" lean-forward="true" selection-start-line="664" selection-start-column="18" selection-end-line="664" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -51,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -131,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551327567925</updated>
-      <workItem from="1551327570818" duration="7273000" />
+      <workItem from="1551327570818" duration="7529000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1551345446136</created>
@@ -147,15 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551345582524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hidden gary information.">
+      <created>1551345929828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551345929828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7273000" />
+    <option name="totallyTimeSpent" value="7529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="23" width="1440" height="848" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
@@ -203,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="change service class css color" />
-    <option name="LAST_COMMIT_MESSAGE" value="change service class css color" />
+    <MESSAGE value="hidden gary information." />
+    <option name="LAST_COMMIT_MESSAGE" value="hidden gary information." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -278,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="657" column="30" lean-forward="true" selection-start-line="657" selection-start-column="30" selection-end-line="657" selection-end-column="30" />
+        <state relative-caret-position="408">
+          <caret line="664" column="18" lean-forward="true" selection-start-line="664" selection-start-column="18" selection-end-line="664" selection-end-column="18" />
         </state>
       </provider>
     </entry>

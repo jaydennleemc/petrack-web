@@ -1666,7 +1666,7 @@ header {
 }
 
 #back-to-top:after {
-    content: "\f106";
+    content: "";
     font-family: 'FontAwesome';
 }
 
